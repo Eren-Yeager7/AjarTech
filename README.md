@@ -59,7 +59,7 @@ For crime detection we could implement infrared videoing to detect concealed wea
 
 Going into the future we can use IoT edge computing to allow AI to run locally, this will be later in the future when embedded processors are improved.
 
-![[Pasted image 20241127110813.png]]
+![NVR](https://github.com/Eren-Yeager7/AjarTech/raw/refs/heads/main/NVR_Concept.png)
 
 > Explain the problem it addresses. How does it improve people's lives or make an existing process more efficient?
 
@@ -74,7 +74,7 @@ Potential users could be banks, government agencies, security facilities, small 
 
 Well a good future development would be having the processing of footage to be done on the actual hardware for example the ARM chip which is standard for most embedded devices have introduced the new **Armv9-A** architecture and it adds a lot of new features for doing *Machine Learning* directly on the chip with it's accelerated processing of large datasets without having to recompile software and remain power efficiency through improved memory usage. 
 #### **Armv9-A chip**
-![[Pasted image 20241202140439.png]]
+![Armv9](https://github.com/Eren-Yeager7/AjarTech/raw/refs/heads/main/ARMv9.png)
 
 This allows for us in future development to handle everything locally instead of remotely, without having to give up efficiency.
 
